@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualBasic;
 using System;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Linq;
@@ -80,6 +81,11 @@ namespace Tjuring_Machine_Term_Paper
         private void timer1_Tick(object sender, EventArgs e)
         {
             UnaryTip.Text = "Unary on decimal: " + Tape.UnaryNumberUnderPointer().ToString();
+        }
+
+        private void MoreButton_Click(object sender, EventArgs e)
+        {
+            Process.Start("https://drive.google.com/open?id=1MpjY_OQvwjwDj7A61ds8eEwtO03x0FJm");
         }
     }
 }

@@ -42,6 +42,7 @@
             this.UnaryTip = new System.Windows.Forms.Label();
             this.ResetStateButton = new System.Windows.Forms.Button();
             this.HelpButton = new System.Windows.Forms.Button();
+            this.MoreButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // PressEnterTip
@@ -50,9 +51,9 @@
             this.PressEnterTip.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.PressEnterTip.Location = new System.Drawing.Point(12, 9);
             this.PressEnterTip.Name = "PressEnterTip";
-            this.PressEnterTip.Size = new System.Drawing.Size(239, 20);
+            this.PressEnterTip.Size = new System.Drawing.Size(404, 20);
             this.PressEnterTip.TabIndex = 0;
-            this.PressEnterTip.Text = "Press Enter to center the pointer";
+            this.PressEnterTip.Text = "Press Enter when the tape is active to center the pointer";
             // 
             // CommandsBox
             // 
@@ -175,20 +176,35 @@
             // HelpButton
             // 
             this.HelpButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.HelpButton.BackColor = System.Drawing.SystemColors.ControlDark;
             this.HelpButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.HelpButton.Location = new System.Drawing.Point(830, 629);
             this.HelpButton.Name = "HelpButton";
             this.HelpButton.Size = new System.Drawing.Size(200, 100);
             this.HelpButton.TabIndex = 13;
             this.HelpButton.Text = "Help";
-            this.HelpButton.UseVisualStyleBackColor = true;
+            this.HelpButton.UseVisualStyleBackColor = false;
             this.HelpButton.Click += new System.EventHandler(this.HelpButton_Click);
+            // 
+            // MoreButton
+            // 
+            this.MoreButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.MoreButton.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.MoreButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.MoreButton.Location = new System.Drawing.Point(1036, 629);
+            this.MoreButton.Name = "MoreButton";
+            this.MoreButton.Size = new System.Drawing.Size(200, 100);
+            this.MoreButton.TabIndex = 14;
+            this.MoreButton.Text = "More";
+            this.MoreButton.UseVisualStyleBackColor = false;
+            this.MoreButton.Click += new System.EventHandler(this.MoreButton_Click);
             // 
             // TjuringMachineForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1256, 741);
+            this.Controls.Add(this.MoreButton);
             this.Controls.Add(this.HelpButton);
             this.Controls.Add(this.ResetStateButton);
             this.Controls.Add(this.UnaryTip);
@@ -223,6 +239,7 @@
         private System.Windows.Forms.Label UnaryTip;
         private System.Windows.Forms.Button ResetStateButton;
         private System.Windows.Forms.Button HelpButton;
+        private System.Windows.Forms.Button MoreButton;
     }
 }
 
