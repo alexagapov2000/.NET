@@ -1,0 +1,36 @@
+q1 # -> q2 a R
+
+q2 0 -> q2 0 R
+q2 1 -> q2 1 R
+q2 # -> q3 b L
+
+q3 0 -> qL0 # R
+q3 1 -> qL1 # R
+q3 # -> q3 # L
+q3 a -> qClear # R
+
+qL0 # -> qL0 # R
+qL0 b -> qR0 b R
+
+qL1 # -> qL1 # R
+qL1 b -> qR1 b R
+
+qR0 0 -> qR0 0 R
+qR0 1 -> qR0 1 R
+qR0 # -> q4 0 L
+
+qR1 0 -> qR1 0 R
+qR1 1 -> qR1 1 R
+qR1 # -> q4 1 L
+
+q4 0 -> q4 0 L
+q4 1 -> q4 1 L
+q4 b -> q5 b L
+
+q5 # -> q5 # L
+q5 0 -> qL0 # R
+q5 1 -> qL1 # R
+q5 a -> qClear # R
+
+qClear # -> qClear # R
+qClear b -> q0 # S

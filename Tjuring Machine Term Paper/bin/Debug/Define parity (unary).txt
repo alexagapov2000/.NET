@@ -1,0 +1,10 @@
+q1 # -> q2 # R
+
+q2 1 -> q3 1 R
+q3 1 -> q2 1 R
+
+q2 # -> qZero # R
+q3 # -> qOne # R
+
+qZero # -> q0 0 L
+qOne # -> q0 1 L

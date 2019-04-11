@@ -1,0 +1,18 @@
+q1 # -> q2 0 R
+
+q2 1 -> q3 1 R
+q3 1 -> q2 # R
+
+q2 # -> qFindOne # L
+q3 # -> qFindOne # L
+
+qFindOne 1 -> qPickOne # L
+qFindOne # -> qFindOne # L
+qFindOne 0 -> q0 # S
+
+qPickOne 1 -> qPickOne 1 L
+qPickOne # -> qToEnd 1 R
+qPickOne 0 -> q0 1 L
+
+qToEnd 1 -> qToEnd 1 R
+qToEnd # -> qFindOne # L

@@ -1,0 +1,23 @@
+q1 # -> qLastR # R
+
+qLastR 1 -> qLastR 1 R
+qLastR # -> qPick # L
+
+qPick 1 -> qPlusR # L
+qPick # -> qToStart # L
+
+qPlusR 1 -> qPlusR 1 L
+qPlusR # -> qPlusL # L
+
+qPlusL # -> qLastL 1 R
+qPlusL 0 -> qLastL 1 R
+qPlusL 1 -> qPlusL 0 L
+
+qLastL 0 -> qLastL 0 R
+qLastL 1 -> qLastL 1 R
+qLastL # -> qLastR # R
+
+qToStart 0 -> qToStart 0 L
+qToStart 1 -> qToStart 1 L
+qToStart # -> q0 # S
+

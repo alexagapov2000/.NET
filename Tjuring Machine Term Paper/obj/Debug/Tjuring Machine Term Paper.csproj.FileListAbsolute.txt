@@ -1,0 +1,22 @@
+C:\Users\Алексей\source\repos\Tjuring Machine Term Paper\bin\Debug\Tjuring Machine Term Paper.exe.config
+C:\Users\Алексей\source\repos\Tjuring Machine Term Paper\bin\Debug\Tjuring Machine Term Paper.exe
+C:\Users\Алексей\source\repos\Tjuring Machine Term Paper\bin\Debug\Tjuring Machine Term Paper.pdb
+C:\Users\Алексей\source\repos\Tjuring Machine Term Paper\obj\Debug\Tjuring Machine Term Paper.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\Tjuring Machine Term Paper\obj\Debug\Tjuring_Machine_Term_Paper.Properties.Resources.resources
+C:\Users\Алексей\source\repos\Tjuring Machine Term Paper\obj\Debug\Tjuring_Machine_Term_Paper.TjuringMachineForm.resources
+C:\Users\Алексей\source\repos\Tjuring Machine Term Paper\obj\Debug\Tjuring Machine Term Paper.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\Tjuring Machine Term Paper\obj\Debug\Tjuring Machine Term Paper.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\Tjuring Machine Term Paper\obj\Debug\Tjuring Machine Term Paper.exe
+C:\Users\Алексей\source\repos\Tjuring Machine Term Paper\obj\Debug\Tjuring Machine Term Paper.pdb
+C:\Users\Алексей\source\repos\Tjuring Machine Term Paper\obj\Debug\Tjuring_Machine_Term_Paper.HelpForm.resources
+C:\Users\Алексей\source\.NET\Tjuring Machine Term Paper\bin\Debug\Tjuring Machine Term Paper.exe.config
+C:\Users\Алексей\source\.NET\Tjuring Machine Term Paper\bin\Debug\Tjuring Machine Term Paper.exe
+C:\Users\Алексей\source\.NET\Tjuring Machine Term Paper\bin\Debug\Tjuring Machine Term Paper.pdb
+C:\Users\Алексей\source\.NET\Tjuring Machine Term Paper\obj\Debug\Tjuring Machine Term Paper.csprojAssemblyReference.cache
+C:\Users\Алексей\source\.NET\Tjuring Machine Term Paper\obj\Debug\Tjuring_Machine_Term_Paper.HelpForm.resources
+C:\Users\Алексей\source\.NET\Tjuring Machine Term Paper\obj\Debug\Tjuring_Machine_Term_Paper.Properties.Resources.resources
+C:\Users\Алексей\source\.NET\Tjuring Machine Term Paper\obj\Debug\Tjuring_Machine_Term_Paper.TjuringMachineForm.resources
+C:\Users\Алексей\source\.NET\Tjuring Machine Term Paper\obj\Debug\Tjuring Machine Term Paper.csproj.GenerateResource.cache
+C:\Users\Алексей\source\.NET\Tjuring Machine Term Paper\obj\Debug\Tjuring Machine Term Paper.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\.NET\Tjuring Machine Term Paper\obj\Debug\Tjuring Machine Term Paper.exe
+C:\Users\Алексей\source\.NET\Tjuring Machine Term Paper\obj\Debug\Tjuring Machine Term Paper.pdb
