@@ -1,0 +1,10 @@
+C:\Users\Алексей\source\repos\FindDifference\bin\Debug\FindDifference.exe.config
+C:\Users\Алексей\source\repos\FindDifference\bin\Debug\FindDifference.exe
+C:\Users\Алексей\source\repos\FindDifference\bin\Debug\FindDifference.pdb
+C:\Users\Алексей\source\repos\FindDifference\obj\Debug\FindDifference.Form1.resources
+C:\Users\Алексей\source\repos\FindDifference\obj\Debug\FindDifference.Properties.Resources.resources
+C:\Users\Алексей\source\repos\FindDifference\obj\Debug\FindDifference.csproj.GenerateResource.Cache
+C:\Users\Алексей\source\repos\FindDifference\obj\Debug\FindDifference.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\FindDifference\obj\Debug\FindDifference.exe
+C:\Users\Алексей\source\repos\FindDifference\obj\Debug\FindDifference.pdb
+C:\Users\Алексей\source\repos\FindDifference\obj\Debug\FindDifference.csprojAssemblyReference.cache
