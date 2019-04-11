@@ -1,0 +1,10 @@
+C:\Users\Алексей\source\repos\LabaForms1\bin\Debug\LabaForms1.exe.config
+C:\Users\Алексей\source\repos\LabaForms1\bin\Debug\LabaForms1.exe
+C:\Users\Алексей\source\repos\LabaForms1\bin\Debug\LabaForms1.pdb
+C:\Users\Алексей\source\repos\LabaForms1\obj\Debug\LabaForms1.Form1.resources
+C:\Users\Алексей\source\repos\LabaForms1\obj\Debug\LabaForms1.Properties.Resources.resources
+C:\Users\Алексей\source\repos\LabaForms1\obj\Debug\LabaForms1.csproj.GenerateResource.Cache
+C:\Users\Алексей\source\repos\LabaForms1\obj\Debug\LabaForms1.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\LabaForms1\obj\Debug\LabaForms1.exe
+C:\Users\Алексей\source\repos\LabaForms1\obj\Debug\LabaForms1.pdb
+C:\Users\Алексей\source\repos\LabaForms1\obj\Debug\LabaForms1.csprojAssemblyReference.cache
